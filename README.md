@@ -10,8 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Повертаючим типом методу "Calc" є делегат. Цей делегат повинен приймати 1 число як параметр,\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;а як результат повертати значення bool. Цей делегат посилається на метод "Result".\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2) метод "Result", який приймає як аргумент 1 число і повертає bool. Поточний метод повинен порахувати\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;залишок від ділення результат виконання виклику делегата на метод "Pow" і числа що прийшов в метод як\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;параметр. Зробити перевірку на те, що чи ділитися число у нас без залишку або ж немає і повернути\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;залишок від ділення результат виконання виклику делегата на метод "Pow" і числа що прийшов в метод\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; чк параметр. Зробити перевірку на те, що чи ділитися число у нас без залишку або ж немає і повернути\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;це як результат методу "Result"\
 \
 Клас Program містить:\
